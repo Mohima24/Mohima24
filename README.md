@@ -1,6 +1,8 @@
 
 <img width="100%" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Mohima+Bahadur!;Learning+Nodejs+Back-end+Development...;" style="width: 100%;">
+<div align="center" margin="auto">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Mohima+Bahadur!;Learning+Nodejs+Back-end+Development...;" style="width: 90%;">
+</div>
 <h4> A passionate NEM Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.<h4/>
   
 <hr>
