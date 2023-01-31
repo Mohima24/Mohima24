@@ -7,7 +7,8 @@
   
 <hr>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47esdxuccxbjd8dgpvbaehxvmlbjxsjirtqw7sh66t&rid=giphy.gif&ct=g"/>
-   💬 About me ...<br>
+   💬 About me ...
+  <br>
   <ul align="left">
   <li>🌱🌱 I’m currently learning Full Stack Devlopment</li>
 </ul>
