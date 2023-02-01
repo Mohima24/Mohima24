@@ -9,16 +9,16 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47esdxuccxbjd8dgpvbaehxvmlbjxsjirtqw7sh66t&rid=giphy.gif&ct=g"/>
    💬 About me ...
   <br>
-  <ul align="left">
-  <li>🌱🌱 I’m currently learning Full Stack Devlopment</li>
-</ul>
-- 📫 How to reach me mohimabahadur@gmail.com
   
-- 👨‍💻 Checkout my Portfolio [Mohima Bahadur](https://Mohima24.github.io)
+ - 🌱🌱 I’m currently learning Full Stack Devlopment
   
-- 💻 Checkout my Resume [Mohima_Bahadur_resume](https://drive.google.com/file/d/1lg_o9RilzQj_LzEZ9pTa7OIkwyOJGJ6-/view?usp=sharing)
+ - 📫 How to reach me **mohimabahadur@gmail.com**
   
-- 💬 Ask me about HTML,CSS,Javascript
+ - 👨‍💻 Checkout my Portfolio [Mohima Bahadur](https://Mohima24.github.io)
+  
+ - 💻 Checkout my Resume [Mohima_Bahadur_resume](https://drive.google.com/file/d/1lg_o9RilzQj_LzEZ9pTa7OIkwyOJGJ6-/view?usp=sharing)
+  
+ - 💬 Ask me about HTML,CSS,Javascript
   <br>
   <br>
   <br>
