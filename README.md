@@ -12,7 +12,7 @@
   
  - 🌱🌱 I’m currently learning Full Stack Devlopment
   
- - 📫 How to reach me **mohimabahadur@gmail.com**
+<!--  - 📫 How to reach me **mohimabahadur@gmail.com** -->
   
  - 👨‍💻 Checkout my Portfolio [My Portfolio](https://Mohima24.github.io/)
   
