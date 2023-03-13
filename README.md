@@ -14,9 +14,10 @@
   
 <!--  - 📫 How to reach me **mohimabahadur@gmail.com** -->
   
- - 👨‍💻 Checkout my Portfolio [My Portfolio](https://mohima24.github.io/)
+<!--  - 👨‍💻 Checkout my Portfolio [My Portfolio](https://mohima24.github.io/) -->
   
-  <p align="center"><a href='https://mohima24.github.io/'><img src="https://img.shields.io/badge/Portfolio-green" width="100px"></a> </p>
+<!--   <p align="center"><a href='https://Mohima24.github.io/'><img src="https://img.shields.io/badge/Portfolio-green" width="100px"></a> </p> -->
+  - **[My Portfolio](https://Mohima24.github.io/)**
   
  - 💻 Checkout my Resume [Mohima_Bahadur_resume](https://drive.google.com/file/d/1lg_o9RilzQj_LzEZ9pTa7OIkwyOJGJ6-/view?usp=sharing)
   
